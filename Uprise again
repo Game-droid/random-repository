@@ -1,6 +1,10 @@
 open GJ.recievelevel.
-song="Samsung over the horizon"
+song="Samsung over the horizon 2015"
 tap "x".jpg icon=exit
 color BG=Blue
 tap "tools" icon.jpg=CREATE
 toolsbuttoncolor=BLUE
+xbuttoncolor=RED
+level=id18283728 to GJ.recivelevel.
+rating=Hard
+BGcolor.for.level.18283728=MAROON
