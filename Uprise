@@ -5,8 +5,8 @@ triple tap (show red)
 swipe up (move to up) swipe down (move to down)
 tap bottom (show yellow) tap up (show puple)
 tap top and bottom ( show brown)
-combine 3,4
-combine 1,4
+combine 3,4 when do both 3,4
+combine 1,4 when do both 1,4
 3 times 7 (show the word "even")
 2 times 10 (show the word "for")
 show key image after 11 "2 times 10 (show the word even)"
