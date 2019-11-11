@@ -7,5 +7,9 @@ tap bottom (show yellow) tap up (show puple)
 tap top and bottom ( show brown)
 combine 3,4
 combine 1,4
-3 times 7 (show the word even)
-2 times 10 (show the word for)
+3 times 7 (show the word "even")
+2 times 10 (show the word "for")
+show key image after 11 "2 times 10 (show the word even)"
+open "camera" application after 4 "triple tap (show red)"
+open "gallery" application after 7 "tap top and bottom ( show brown)"
+tap and swipe (show the word "of")
