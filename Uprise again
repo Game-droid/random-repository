@@ -1,0 +1,6 @@
+open GJ.recievelevel.
+song="Samsung over the horizon"
+tap "x".jpg icon=exit
+color BG=Blue
+tap "tools" icon.jpg=CREATE
+toolsbuttoncolor=BLUE
